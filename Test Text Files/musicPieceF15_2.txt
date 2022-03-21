@@ -6,3 +6,4 @@ left  F2e         A2e     C3e       A2e     F2e      A2e      | Bb3s
 right D4s    Bb3s F3s E3s F3s  Bb3s D3s F3s A3s C4s  Bb3s A3s
 left  Bb2e        D3e     Bb2e      F1q              Re   
 #BAR
+
