@@ -1,0 +1,8 @@
+#TITLE J.S. Bach Well−Tempered Clavier, I, Prelude no. 11
+#VOICES left right
+# first measure
+right F4s C4s A3s G3s A3s C4s F3s A3s C4s Eb4s D4s C4s
+left F2e A2e C3e A2e F2e A2e
+right D4s Bb3s F3s E3s F3s Bb3s D3s F3s A3s C4s Bb3s A3s
+left Bb2e D3e Bb2e F1q Re
+#BAR
